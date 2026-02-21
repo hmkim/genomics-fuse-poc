@@ -1,0 +1,11 @@
+{
+  "project_001": {
+    "EID_1234567": "internal_id_000001",
+    "EID_2345678": "internal_id_000002",
+    "EID_3456789": "internal_id_000003"
+  },
+  "project_002": {
+    "EID_9876543": "internal_id_000001",
+    "EID_8765432": "internal_id_000002"
+  }
+}

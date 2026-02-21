@@ -1,0 +1,11 @@
+{
+  "project_1kg": {
+    "EID_4001001": "internal_id_100001",
+    "EID_4001002": "internal_id_100002",
+    "EID_4001003": "internal_id_100003"
+  },
+  "project_1kg_shared": {
+    "EID_5001001": "internal_id_100001",
+    "EID_5001002": "internal_id_100003"
+  }
+}

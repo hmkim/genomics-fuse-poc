@@ -1,0 +1,48 @@
+# Genomic data (large binary files)
+*.cram
+*.crai
+*.bam
+*.bai
+*.fa
+*.fa.fai
+*.fasta
+*.fasta.fai
+data/samples/
+data/samples_1kg/
+data/reference/
+data/reference_grch38_full/
+
+# Generated documents
+*.pdf
+*.pptx
+
+# Customer queries (private)
+customer_query/
+
+# Node.js (CDK has its own .gitignore for *.js etc.)
+node_modules/
+
+# CDK outputs
+cdk.out/
+.cdk.staging/
+infra/cdk.context.json
+
+# dxfuse reference codebase (external repo)
+dxfuse/
+
+# oh-my-claudecode state
+.omc/
+
+# Stray/temp files
+-
+site
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+*~
